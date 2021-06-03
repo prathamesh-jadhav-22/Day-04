@@ -1,0 +1,24 @@
+--Today we learnt 
+    -- Heading in html
+        - That are <h1>,<h2>,<h3>,<h4>......etc....
+
+-- Some Tags
+    --<Strong>:It used to format the text after using this text will be bold and large in size.
+    --<u>: This tag is used to get underline. 
+    --<i>: This tag is used to assign italic style to font
+    --<a href="link">------</a>: This is used to get link of another website.
+
+--Lists: There are two types of Lists 
+    1.Order Lists:<ol> It used to create list in oder means in numbring format
+    2.Unorder Lists:<ul> It used to create list in under means withour numbering using bullets.
+
+    ex..
+    <ol>
+        <li>....</li>
+    </ol>
+    <ul>
+        <li>....</li>
+    </ul>
+
+-- Image Tag :It used to display image in our wep page
+    -- To use this tag we need to save our image in one folder in our root folder.
